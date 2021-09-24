@@ -1,0 +1,9 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+.app-div {
+  color: red;
+  font-size: 2em;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
